@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/attendancecalculator/static/css/main.0cc128f7.css",
-    "main.js": "/attendancecalculator/static/js/main.50c17439.js",
-    "index.html": "/attendancecalculator/index.html",
-    "main.0cc128f7.css.map": "/attendancecalculator/static/css/main.0cc128f7.css.map",
-    "main.50c17439.js.map": "/attendancecalculator/static/js/main.50c17439.js.map"
+    "main.css": "/attendanceCalculator/static/css/main.0cc128f7.css",
+    "main.js": "/attendanceCalculator/static/js/main.50c17439.js",
+    "index.html": "/attendanceCalculator/index.html",
+    "main.0cc128f7.css.map": "/attendanceCalculator/static/css/main.0cc128f7.css.map",
+    "main.50c17439.js.map": "/attendanceCalculator/static/js/main.50c17439.js.map"
   },
   "entrypoints": [
     "static/css/main.0cc128f7.css",
